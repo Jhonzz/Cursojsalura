@@ -1,0 +1,6 @@
+Variáveis dentro de uma class são chamadas de campos ou atributos
+
+Com o class n precisa repetir na hora de imprimir 
+
+class é oq define oq vc quer fzr sendo assim é como um "molde"
+
