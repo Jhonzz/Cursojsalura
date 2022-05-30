@@ -1,6 +1,11 @@
-Variáveis dentro de uma class são chamadas de campos ou atributos
+Variáveis dentro de uma class são chamadas de campos ou atributos;
 
-Com o class n precisa repetir na hora de imprimir 
+Com o class n precisa repetir na hora de imprimir;
 
-class é oq define oq vc quer fzr sendo assim é como um "molde"
+class é oq define oq vc quer fzr sendo assim é como um "molde";
 
+Todo arquivo que estiver com letra maiúscula representa uma classe;
+
+Usar index apenas para execução;
+
+export e import para modulos, em outros arquivos
